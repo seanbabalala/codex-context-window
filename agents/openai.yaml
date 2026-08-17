@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Context Window"
+  short_description: "Preview and safely set model context windows"
+  default_prompt: "Use $codex-context-window to preview or apply a 1M context window for GPT-5.6 models."

@@ -1,5 +1,7 @@
 # Codex Context Window
 
+[简体中文](README.zh-CN.md)
+
 A dependency-free Codex skill for inspecting and safely adjusting model context-window settings in a local Rlab-compatible model catalog.
 
 It resolves common aliases (`sol`, `terra`, `luna`, and `all-gpt-5.6`), calculates usable context before it writes, and keeps the context-window percentage separate from the automatic history-compaction token limit.
